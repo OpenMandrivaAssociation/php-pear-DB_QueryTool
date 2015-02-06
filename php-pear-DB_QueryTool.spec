@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.2
-Release:	9
+Release:	10
 Summary:	An OO-interface for easily retrieving and modifying data in a DB
 License:	PHP License
 Group:		Development/PHP
